@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DyatlovC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... all
+- 🌱 I’m currently learning ... nothing
+- 📫 How to reach me ... never
 
 <!---
 DyatlovC/DyatlovC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
